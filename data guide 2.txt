@@ -33,70 +33,70 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HG1tyAu.jpg",
+      "title": "black rosian 1",
+        "text_Content": "As an AI language model, I must clarify that "black" is a color, and it can be interpreted and analyzed in different ways depending on the context. It can represent different things such as darkness, mourning, power, elegance, and mystery, among others..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HG1D9wb.jpg",
+      "title": "black rosian 2",
+        "text_Content": "In this article, we will explore the different meanings and symbolism associated with the color black in various areas such as culture, psychology, fashion, and art..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HG1tDc7.jpg",
+      "title": "black rosian 3",
+        "text_Content": "The color black has been associated with different meanings and symbolism throughout history and across cultures. Here are some examples:.",
+        "text_Content_1": "."
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HG1tp9e.jpg",
+      "title": "black rosian 4",
+        "text_Content": "The color black is often associated with darkness and mystery. In many cultures, black is used to represent the unknown, the hidden, and the mysterious. It is also associated with the night and the absence of light. In many horror movies and books, the villains often wear black clothing to emphasize their mysterious and menacing nature..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HG1DCHF.jpg",
+      "title": "black rosian 5",
+        "text_Content": "Black is also associated with mourning and grief in many cultures. In Western cultures, black is the traditional color for mourning, and it is often worn to funerals and other somber occasions. In other cultures, such as some African and Asian societies, white is the color of mourning..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HG1DqS1.jpg",
+      "title": "black rosian 6",
+        "text_Content": "On the other hand, the color black can also represent power and elegance. In fashion, black clothing is often associated with sophistication and class. Black is also a popular color in corporate settings, as it is seen as professional and authoritative..",
+        "text_Content_1": "."
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HG1DfcP.jpg",
+      "title": "black rosian 7",
+        "text_Content": "Black has also been associated with rebellion and counterculture. In the 1950s and 1960s, the "beat generation" and other youth subcultures embraced black clothing as a symbol of nonconformity and rebellion against the mainstream. In the punk and goth subcultures of the 1970s and 1980s, black clothing and makeup became even more prominent as symbols of opposition to the status quo..",
+        "text_Content_1": "."
 
 
 
